@@ -1,0 +1,5 @@
+numpy==1.15.2
+matplotlib==3.0.0
+PyVirtualDisplay
+gym==0.10.9
+nn_builder
